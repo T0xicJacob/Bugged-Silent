@@ -1,4 +1,4 @@
-                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/uzisama22/earthW/main/silentaimbot2", true))()
+                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/T0xicJacob/Bugged-Silent/main/Bugged%20Side", true))()
                             Aiming.TeamCheck(false)
                              
                             
