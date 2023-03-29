@@ -17,7 +17,7 @@
         -- DB - 0.178
         -- Rev - 0.12444
                               
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ryqtot/sd/main/number1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/T0xicJacob/Bugged-Silent/main/Bugged%20Side%202", true))()
 getgenv().DaHoodSettings.Prediction = 0.12444
 getgenv().Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftFoot", "RightFoot", "UpperTorso",}
 getgenv().Aiming.FOV = 13
