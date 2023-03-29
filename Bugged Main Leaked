@@ -1,0 +1,34 @@
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+-- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim -- -- Bugged Silent Aim -- -- Bugged Silent Aim --  -- 6ugged Silent Aim --
+
+                              -- Leaked By Eaten --
+                              
+                        
+                              -- READ THIS ->
+                              -- Bugged/6ugged uses dif prediction to each weapon
+                              -- Bugged Silent Has been leaked due to him sending it to some people which I can't find
+                              
+            -- Bugged/6ugged Predictions   His Fov Is 13   
+        -- DB - 0.178
+        -- Rev - 0.12444
+                              
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryqtot/sd/main/number1", true))()
+getgenv().DaHoodSettings.Prediction = 0.12444
+getgenv().Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftFoot", "RightFoot", "UpperTorso",}
+getgenv().Aiming.FOV = 13
+getgenv().Aiming.FOVSides = 25
+getgenv().Aiming.HitChance = 110
+getgenv().Aiming.ShowFOV = false
+
+-- He Uses 0.0 Prediction Velocity with good smoothness
+
+getgenv().Aimlock = true
+getgenv().AimlockKey = "C" -- aimbot toggle
+getgenv().AimPart = "UpperTorso" -- UpperTorso, LowerTorso, HumanoidRootPart, Head
+getgenv().PredictionVelocity = 0.0 -- aimbot prediction.
+getgenv().SmoothnessAmount = 0.0056 -- dont go over 0.01 to look legit
